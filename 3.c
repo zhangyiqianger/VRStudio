@@ -4,7 +4,7 @@ int num=0, letter=0, space=0, other=0;
 int main()
 {
 	
-	char a[]="We are 1706!";
+	char a[]="We are VR Studio!";
         /*字数统计*/
 	for (int i = 0; i < strlen(a); i++)
 	{
