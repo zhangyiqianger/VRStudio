@@ -2,7 +2,7 @@
 void SubString(char b[], int start, int end);
 int main()
 {
-	char a[]="We are 1706!";
+	char a[]="We are VR Studio!";
 	SubString(a, 1, 5);
 	return 0;
 }
